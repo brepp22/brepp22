@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beighley Repp</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Authenticated Friends Dashboard with React**
+- 🔭 I’m currently working on **Authenticated Pet Finder Dashboard with React**
 
 - 🌱 I’m currently exploring **TypeScript**
 
