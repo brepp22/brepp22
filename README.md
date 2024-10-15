@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beighley Repp</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Front-End Web Developer</h3>
 
 - 🔭 I’m currently working on **Authenticated Pet Finder Dashboard with React**
 
