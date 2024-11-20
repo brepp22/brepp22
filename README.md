@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Authenticated Pet Finder Dashboard with React**
 
-- 🌱 I’m currently exploring **TypeScript**
+- 🌱 I’m currently exploring **TypeScript** . **Astro**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
